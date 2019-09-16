@@ -4,13 +4,12 @@
   <img width="600" src="https://hackernoon.com/hn-images/1*y6C4nSvy2Woe0m7bWEn4BA.png" />
 </p>
 
-Here is my new repository which builded with React JS Library for making the User Interface in JavaScript syntax, see my previous repository about <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">Inventory-App-Express-Js-BackEnd</a> for the backend side and making API.
-
-
 
 ## Introduction
 [![React JS](https://img.shields.io/badge/react--js-16.9.0-blue)](https://https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
+
+Here is my new repository which builded with React JS Library for making the User Interface in JavaScript syntax, see my previous repository about <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">Inventory-App-Express-Js-BackEnd</a> for the backend side and making API.
 
 
 ## Related Project

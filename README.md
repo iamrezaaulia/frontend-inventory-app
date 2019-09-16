@@ -11,20 +11,25 @@
 
 Here is my new repository which builded with React JS Library for making the User Interface in JavaScript syntax, see my previous repository about <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">Inventory-App-Express-Js-BackEnd</a> for the backend side and making API.
 
+## Feature Project
+1. Login
+2. Register
+3. CRUD 
+4. Query search
 
 ## Related Project
 <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">ExpressJS - Simple Inventory App RESTfull API</a>
 
-
 ## Requirements
 1. <a href="https://nodejs.org/en/download/">Node Js</a>
-2. Node_modules - yarn in Terminal
+2. Node_modules - type `yarn` in terminal
+3. Clone related project
 
-## How to run the app ?
+## How to Run The App 
 1. Open app's directory in CMD or Terminal, type `yarn start`
 2. Before `yarn start` prepare the API first
 
-## Screenshot from the App
+## Screenshot App
 1. Register
    <image src="https://user-images.githubusercontent.com/53343532/64962242-433efd00-d8c1-11e9-908f-a62c7918dbaf.png" />
 2. Login

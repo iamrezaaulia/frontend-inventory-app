@@ -1,12 +1,8 @@
-<h1 align='center'>Inventory Application with React JS - Front End</h1>
+<h1>Inventory Application with React JS - Front End</h1>
 
 <p align='center'>
-  <img width="500" src="https://hackernoon.com/hn-images/1*y6C4nSvy2Woe0m7bWEn4BA.png" />
+  <img width="600" src="https://hackernoon.com/hn-images/1*y6C4nSvy2Woe0m7bWEn4BA.png" />
 </p>
-
-<br>
-<br>
-
 
 Here is my new repository which builded with React JS Library for making the User Interface in JavaScript syntax, see my previous repository about <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">Inventory-App-Express-Js-BackEnd</a> for the backend side and making API.
 

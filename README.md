@@ -12,10 +12,9 @@
 Here is my new repository which builded with React JS Library for making the User Interface in JavaScript syntax, see my previous repository about <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">Inventory-App-Express-Js-BackEnd</a> for the backend side and making API.
 
 ## Feature Project
-1. Login
-2. Register
-3. CRUD 
-4. Query search
+1. Login and Register with JWT
+2. CRUD 
+3. Query search
 
 ## Related Project
 <a href="https://github.com/iamrezaaulia/RESTful-API-Inventory-App">ExpressJS - Simple Inventory App RESTfull API</a>
